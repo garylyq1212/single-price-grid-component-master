@@ -1,0 +1,15 @@
+{
+  "name": "single-price-grid-component-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss build src/app.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
